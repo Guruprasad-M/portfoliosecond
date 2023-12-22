@@ -206,8 +206,8 @@ section {
 }
 .rad{
   border-radius: 70%;
-  width:  50%;
-  height:  70%;
+  width:  30%;
+  height:  auto;
 }
 .section__text {
   align-self: center;
