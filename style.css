@@ -206,7 +206,7 @@ section {
 }
 .rad{
   border-radius: 70%;
-  width: auto;
+  width:  50%;
   height: auto;
 }
 .section__text {
@@ -321,8 +321,8 @@ section {
 
 .about-pic {
   border-radius: 2rem;
-  height:auto;
-  width:auto;
+  height: 50%;
+  width: 50%;
 }
 
 .arrow {
