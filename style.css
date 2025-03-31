@@ -326,7 +326,7 @@ section {
 }
 
 .details-container:hover{
-  box-shadow: 4px 4px 20px 1px #7608dc;
+  box-shadow: 20px 20px 20px 6px #7608dc;
 }
 
 #experience .details-container{
